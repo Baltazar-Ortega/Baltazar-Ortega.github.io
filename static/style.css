@@ -1,0 +1,18 @@
+/*
+Aqui hago override de hello-friend/assets
+*/
+
+:root {
+    /* light theme color */
+    --header: #F8F1E3;
+  }
+
+.content {
+  align-items: left;
+}
+
+.post-img {
+  height: 60px;
+  width: 100%;
+  max-width: 500px;
+}

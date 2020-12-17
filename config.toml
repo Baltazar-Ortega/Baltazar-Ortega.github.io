@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Baltazar Ortega"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+    defaultTheme = "light"
+    showMenuItems = 2
+    showReadingTime = false
+
+    [menu]
+        [[menu.main]]
+            identifier = "about"
+            name = "Sobre mi"
+            url = "/about"
