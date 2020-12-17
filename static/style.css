@@ -12,6 +12,6 @@ Aqui hago override de hello-friend/assets
 }
 
 img {
-  max-width: 500px;
+  /* max-width: 500px; */
   width: 100%;
 }
