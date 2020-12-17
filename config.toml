@@ -14,3 +14,7 @@ paginate = 5
             identifier = "about"
             name = "Sobre mi"
             url = "/about"
+        [[menu.main]]
+            identifier = "miscelanea"
+            name = "Miscelanea"
+            url = "/miscelanea"
