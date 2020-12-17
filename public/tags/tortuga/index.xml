@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tortuga on Baltazar Ortega</title>
+    <link>/tags/tortuga/</link>
+    <description>Recent content in tortuga on Baltazar Ortega</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2020 10:36:56 -0600</lastBuildDate><atom:link href="/tags/tortuga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi segundo post</title>
+      <link>/posts/segundo-post/</link>
+      <pubDate>Wed, 16 Dec 2020 10:36:56 -0600</pubDate>
+      
+      <guid>/posts/segundo-post/</guid>
+      <description>Esta es una imagen  Esta es otra imagen  </description>
+    </item>
+    
+  </channel>
+</rss>

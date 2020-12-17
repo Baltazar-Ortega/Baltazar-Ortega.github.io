@@ -3,20 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/animal/</loc>
+    <lastmod>2020-12-16T10:36:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-16T10:36:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/codigo-python/</loc>
+    <lastmod>2020-12-16T10:36:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/segundo-post/</loc>
+    <lastmod>2020-12-16T10:36:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-12-16T10:36:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-16T10:36:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tortuga/</loc>
+    <lastmod>2020-12-16T10:36:56-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
