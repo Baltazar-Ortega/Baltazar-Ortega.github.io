@@ -3,7 +3,6 @@ title: Mis wallpapers
 date: 2020-12-17T21:10:05.422Z
 description: Edición computadoras vintage
 ---
-
 ![](/img/ibm650.jpg)
 
 ![](/img/kidtech.jpg)
@@ -75,3 +74,15 @@ description: Edición computadoras vintage
 ![](/img/xho2hub-old-computer-wallpaper.jpg)
 
 ![](/img/y2k.jpg)
+
+![](/img/gracehopper.jpg)
+
+![](/img/images-_1_.jpg)
+
+![](/img/images-_4_.jpg)
+
+![](/img/images-_2_.jpg)
+
+![](/img/images-_6_.jpg)
+
+![](/img/images-_7_.jpg)
