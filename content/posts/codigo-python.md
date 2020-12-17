@@ -1,7 +1,7 @@
 ---
 title: "Codigo python"
 date: 2020-12-16T10:36:56-06:00
-draft: true
+draft: false
 description: "Ejemplo de codigo con el lenguaje"
 ---
 

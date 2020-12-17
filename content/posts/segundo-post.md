@@ -1,7 +1,7 @@
 ---
 title: "Mi segundo post"
 date: 2020-12-16T10:36:56-06:00
-draft: true
+draft: false
 tags: ["tortuga", "animal"]
 description: "Conoce a la tortuga bisagra"
 ---
