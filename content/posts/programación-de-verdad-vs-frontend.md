@@ -9,6 +9,8 @@ Aprendí los básicos de la programación con el curso de programación básica 
 
 Los resultados de mis programas los veía a través de una consola, y era bastante divertido. Después en la universidad aprendí el lenguaje C en la clase de programación estructurada. Igualmente, los programas eran programas de consola. Había algo emocionante en el reto de lograr que compilara el programa y después ir introduciendo las opciones. Si tenia tiempo, mejoraba la estética usando líneas de asteriscos y otras combinaciones de caracteres. De alguna forma, tener un programa en consola me hacia sentir más cercano al problema a resolver. La interacción era inmediata y sin distracciones. 
 
+![devc++ screenshot](/img/devc.png "dev c++")
+
 ## El frontend es complejo en otro sentido
 
 Mi aprendizaje de CSS fue doloroso. Al tomar un curso prefería saltarme esa parte e ir directo a Javascript. Si tenía que usar CSS, usaba Bootstrap. Pero llegó el momento en que lo tuve que aprender. 
@@ -30,7 +32,6 @@ Pienso que esa experiencia es muy emocional. A final de cuentas, un lenguaje de 
 Puedes pensar el REPL del frontend como:
 
 1. Odio CSS. Mi sitio se ve decente, no necesito modificar mas.
-
 2. Entiendo que CSS no es tan divertido como un lenguaje de programación, pero me esforzaré por entenderlo y crear un diseño del que me sienta orgulloso. 
 
 Es posible que con la segunda reflexión se tenga una mejor experiencia con el REPL del frontend. Hacer un esfuerzo por salirse de lo que conocemos y explorar. Dejar el ego a un lado. 
