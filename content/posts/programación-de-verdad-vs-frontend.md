@@ -17,6 +17,8 @@ Mi aprendizaje de CSS fue doloroso. Al tomar un curso prefería saltarme esa par
 
 Me sentía avergonzado de entender programación pero no CSS. Pensaba para mi, siendo sincero, que CSS era más dificil que C y JS. Tuve que entender que trataba con algo distinto. Después de mucha práctica aprendí a utilizarlo sin un framework. 
 
+![CSS es extraño](/img/cssstrange.png "CSS es extraño")
+
 Y esto me llevó a una reflexión. 
 
 ## Lo que tienes en tu cabeza al programar
