@@ -19,6 +19,8 @@ Me sentía avergonzado de entender programación pero no CSS. Pensaba para mi, s
 
 ![CSS es extraño](/img/cssstrange.png "CSS es extraño")
 
+No solo el aspecto de diseño me era complicado y distinto. Los problemas relacionados con el navegador también se tienen que tener en la mente, como la manipulación del DOM, cuestiones de seguridad, etc. 
+
 Y esto me llevó a una reflexión. 
 
 ## Lo que tienes en tu cabeza al programar
