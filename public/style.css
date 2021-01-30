@@ -11,8 +11,7 @@ Aqui hago override de hello-friend/assets
   align-items: left;
 }
 
-.post-img {
-  height: 60px;
+img {
+  /* max-width: 500px; */
   width: 100%;
-  max-width: 500px;
 }

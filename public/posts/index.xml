@@ -6,24 +6,15 @@
     <description>Recent content in Posts on Baltazar Ortega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 10:36:56 -0600</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Dec 2020 20:02:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Codigo python</title>
-      <link>/posts/codigo-python/</link>
-      <pubDate>Wed, 16 Dec 2020 10:36:56 -0600</pubDate>
+      <title>&#34;programación de verdad&#34; vs frontend</title>
+      <link>/posts/programaci%C3%B3n-de-verdad-vs-frontend/</link>
+      <pubDate>Sun, 27 Dec 2020 20:02:05 +0000</pubDate>
       
-      <guid>/posts/codigo-python/</guid>
-      <description>Hola a todos Aqui algo de codigo
-# this is a comment import sys mivariable = 10 sys.exit(0) </description>
-    </item>
-    
-    <item>
-      <title>Mi segundo post</title>
-      <link>/posts/segundo-post/</link>
-      <pubDate>Wed, 16 Dec 2020 10:36:56 -0600</pubDate>
-      
-      <guid>/posts/segundo-post/</guid>
-      <description>Esta es una imagen  Esta es otra imagen  </description>
+      <guid>/posts/programaci%C3%B3n-de-verdad-vs-frontend/</guid>
+      <description>Mi primer acercamiento a la programación Aprendí los básicos de la programación con el curso de programación básica de Platzi, y con las lecciones interactivas de CodeAcademy. El lenguaje era Javascript. Temas de frontend, como el manejo del DOM, no se trataban a fondo.
+Los resultados de mis programas los veía a través de una consola, y era bastante divertido. Después en la universidad aprendí el lenguaje C en la clase de programación estructurada.</description>
     </item>
     
   </channel>

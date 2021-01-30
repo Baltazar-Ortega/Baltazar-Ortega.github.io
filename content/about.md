@@ -5,4 +5,6 @@ date = "2019-01-25"
 
 # Bienvenido
 
-Hola mi nombre es Baltazar. 
+Este es el espacio de internet donde hablo de mis proyectos y otras cosas.
+
+Github: https://github.com/Baltazar-Ortega

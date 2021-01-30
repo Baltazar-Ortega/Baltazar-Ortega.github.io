@@ -6,24 +6,24 @@
     <description>Recent content on Baltazar Ortega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 10:36:56 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Dec 2020 20:02:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Codigo python</title>
-      <link>/posts/codigo-python/</link>
-      <pubDate>Wed, 16 Dec 2020 10:36:56 -0600</pubDate>
+      <title>&#34;programación de verdad&#34; vs frontend</title>
+      <link>/posts/programaci%C3%B3n-de-verdad-vs-frontend/</link>
+      <pubDate>Sun, 27 Dec 2020 20:02:05 +0000</pubDate>
       
-      <guid>/posts/codigo-python/</guid>
-      <description>Hola a todos Aqui algo de codigo
-# this is a comment import sys mivariable = 10 sys.exit(0) </description>
+      <guid>/posts/programaci%C3%B3n-de-verdad-vs-frontend/</guid>
+      <description>Mi primer acercamiento a la programación Aprendí los básicos de la programación con el curso de programación básica de Platzi, y con las lecciones interactivas de CodeAcademy. El lenguaje era Javascript. Temas de frontend, como el manejo del DOM, no se trataban a fondo.
+Los resultados de mis programas los veía a través de una consola, y era bastante divertido. Después en la universidad aprendí el lenguaje C en la clase de programación estructurada.</description>
     </item>
     
     <item>
-      <title>Mi segundo post</title>
-      <link>/posts/segundo-post/</link>
-      <pubDate>Wed, 16 Dec 2020 10:36:56 -0600</pubDate>
+      <title>Mis wallpapers</title>
+      <link>/miscelanea/mis_wallpapers/</link>
+      <pubDate>Thu, 17 Dec 2020 21:10:05 +0000</pubDate>
       
-      <guid>/posts/segundo-post/</guid>
-      <description>Esta es una imagen  Esta es otra imagen  </description>
+      <guid>/miscelanea/mis_wallpapers/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -32,7 +32,8 @@
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Bienvenido Hola mi nombre es Baltazar.</description>
+      <description>Bienvenido Este es mi espacio de internet donde hablo de mis proyectos y otras cosas.
+Github: https://github.com/Baltazar-Ortega</description>
     </item>
     
   </channel>

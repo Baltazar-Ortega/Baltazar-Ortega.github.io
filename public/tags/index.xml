@@ -5,25 +5,6 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Baltazar Ortega</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 10:36:56 -0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>animal</title>
-      <link>/tags/animal/</link>
-      <pubDate>Wed, 16 Dec 2020 10:36:56 -0600</pubDate>
-      
-      <guid>/tags/animal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tortuga</title>
-      <link>/tags/tortuga/</link>
-      <pubDate>Wed, 16 Dec 2020 10:36:56 -0600</pubDate>
-      
-      <guid>/tags/tortuga/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
